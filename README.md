@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there, I'm Nicole 👋
+
+To be web developer, based in California, focusing on creating aesthetic and accessible websites with everyone in mind. 
+
+Check out what I've created so far ✨(add link to portfolio)✨ 
+
+## Tech Stack 🛠️
+
+## Connect with me 📧
+
 
 <!--
 **Nick-Alva/Nick-Alva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
